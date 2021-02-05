@@ -1,0 +1,3 @@
+p11_1.c ---> pal.asm
+p11_2.c ---> procs.asm
+p11_3.c ---> collatz.asm
